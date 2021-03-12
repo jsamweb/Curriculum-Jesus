@@ -4,3 +4,13 @@
     box-sizing: border-box;
 }
 
+.wrapper{
+    justify-content: center;
+    height: 100%;
+}
+
+.contenedor
+{
+    width: 98%;
+    margin: 0 auto;
+}
